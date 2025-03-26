@@ -17,8 +17,8 @@ AI Text Summarizer is a web-based tool that allows users to generate concise sum
 
 ### Clone the Repository  
 ```bash
-git clone https://github.com/Zefad/Summarizer.git  
-cd Summarizer
+git clone https://github.com/Zefad/TextBlob_Summarizer.git 
+cd TextBlob_Summarizer
 ```
 ## Install Dependecies:
 ```
